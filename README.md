@@ -1,5 +1,5 @@
 # Flutter News App
-Simple News app made in Flutter and using the NewsAPI service.
+Simple News app made in Flutter using the NewsAPI service.
 
 # YouTube Demo
 https://youtu.be/pmLHpc5Hcbo
